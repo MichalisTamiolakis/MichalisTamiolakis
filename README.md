@@ -16,16 +16,16 @@
 
 ### 🚀 About Me
 
-I'm a Software Engineer and MSc CS graduate based in Greece, specializing in Unity, C++, C#, real-time physics simulation, and multiplayer XR applications.
+I'm a Software Engineer and MSc CS graduate based in Greece, with professional experience building high-performance systems in Unity, C++, and C#, including real-time physics simulation (XPBD, soft-body cutting/tearing) and multiplayer XR medical training applications.
 
-I love building high-performance systems and diving deep into graphics, physics, and interactions. Much of my recent work centers around XR medical simulations, real-time soft-body physics (XPBD), data-oriented programming, and low-level optimization.
+I'm currently expanding my skills into **.NET backend development** (ASP.NET Core, EF Core), while continuing to build side projects across embedded systems, full-stack web, and game engine internals. I enjoy diving deep into whatever's under the hood, whether that's a physics solver, a database layer, or a microcontroller.
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,unity,blender,dotnet,js,ts,nodejs,python,html,css,git,docker,raspberrypi,arduino" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,unity,js,ts,nodejs,angular,python,html,css,git,docker,raspberrypi,arduino" />
 </p>
 
 ---
